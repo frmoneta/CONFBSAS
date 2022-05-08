@@ -16,8 +16,8 @@
 
 .container-main-part .main-part {
   font-weight: bolder;
-  font-size: 30px;
-  margin: 10px 0px;
+  font-size: 25px;
+  margin: 5px 5px;
   -webkit-text-stroke: 1px rgb(0, 0, 0);
 }
 
